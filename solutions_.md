@@ -4,4 +4,6 @@ Harvey, J. T., Culvenor, J., Payne, W., Cowley, S., Lawrance, M., Stuart, D., & 
 
 Ziegler, D. W., Lois, M., Hess, D., Pinilla, J., & Tellez, G. (2005). Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients. Chest, 128(4), 194S.
 
-![beer consumption](attachment:plot_beer.png)
+![beer consumption](attachment:https://github.com/katja-p/CS_Assignment/blob/master/plot_beer.png)
+
+There seems to be an increase in the consumption of beer throughout the years.
